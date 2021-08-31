@@ -1,0 +1,136 @@
+*{
+    margin: 0 px;
+    text-decoration: none;
+}
+#principal{
+    border: 1px solid gray;
+    margin: 0px;
+    margin: top 20px;
+    text-align: center;
+    width: 1330px;
+    background-color: rgb(16, 18, 20);
+} 
+#header{
+    font-family:Arial, Helvetica, sans-serif;
+    color: honeydew;
+    text-align: center;
+    font-size: 50px;
+    height: 90px;
+    line-height: 90px;
+    text-align:center;
+   
+  
+    
+   }
+body{
+    background: url("img/inginner.jpg") no-repeat ;
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+#menu ul{
+    float: left;
+    line-height: 30px;
+    width: 40%;
+    
+}
+#menu ul li{
+    border-left:2px solid gray;
+    display: block;
+    float: left;
+    margin: 1px;
+    padding: 7px;
+  
+}
+.box{
+width: 500px;
+background: rgba(0,0,0 0);
+margin: 0 auto;
+margin-top: 4%;
+padding: 20px; 
+color:black;
+text-align: center;
+border-radius: 15px;
+
+}
+.box-img{
+    border-radius: 2000% ;
+    text-align: center;
+
+}
+.box h1{
+  
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+    font-weight: 100px;
+    margin: 30px 0 20px;
+    color: white;
+}
+.box h2{
+  
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+    font-weight: 100px;
+    margin: 30px 0 20px;
+    color: white;
+}
+.box h3{
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: 4px;
+    font-weight: 100px;
+    margin: 30px 0 20px;
+}
+
+.box p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    line-height: 150%;
+    margin: 0;
+    text-align: center;
+    border: rgb(20, 30, 40) 5px dotted;
+    border-top-left-radius: 2px;
+    border-bottom-right-radius: 5px;
+}
+
+.box{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 1oopx;
+    margin-bottom: 20px;
+    
+}
+
+.box{
+
+    text-align: center;
+}
+
+.box i{
+    
+    color: white;
+    font-size: 45px;
+    padding: 10px 5px;
+    transition: all 0.5s ease-in-out;
+    text-align: end;
+}
+     
+.box i:hover {
+color : black;
+transform: scale(1.5);
+}
+
+.center a{
+    text-decoration: none;
+    text-align: initial;
+    color: white;
+    font-size: 18px;
+    padding: 10px 5px;
+}
+    
+
+ 
